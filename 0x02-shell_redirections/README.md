@@ -29,7 +29,8 @@ SHELL I/O REDIRECTION
 	include capital letters as well
 19 - A script that replaces all characters A and c from input to Z and e respectively.
 20 - A script that removes all letters c and C from input.
-22 - 
+21 - A script that reverses its input.
+22 -  
 
 
 
