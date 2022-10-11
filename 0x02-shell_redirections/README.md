@@ -28,7 +28,7 @@ SHELL I/O REDIRECTION
 18 - A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 	include capital letters as well
 19 - A script that replaces all characters A and c from input to Z and e respectively.
-20 -
+20 - A script that removes all letters c and C from input.
 22 - 
 
 
