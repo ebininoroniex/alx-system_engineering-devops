@@ -22,7 +22,7 @@ SHELL I/O REDIRECTION
 			Output format: One line, one word
 			Words should be sorted
 14 - A script that displays lines containing the pattern “root” from the file /etc/passwd
-15 -
+15 - A script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 16 -
 17 -
 18 -
