@@ -27,7 +27,7 @@ SHELL I/O REDIRECTION
 17 - A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 18 - A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 	include capital letters as well
-19 -
+19 - A script that replaces all characters A and c from input to Z and e respectively.
 20 -
 22 - 
 
