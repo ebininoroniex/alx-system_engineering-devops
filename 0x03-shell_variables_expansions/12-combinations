@@ -1,0 +1,15 @@
+#!/bin/bash
+i=0
+while [ "$i" -lt 26 ]; do
+  letter1=$(printf \\$(printf '%03o' $((97+i))))
+  k=0
+  while [ "$k" -lt 26 ]; do
+    letter2=$(printf \\$(printf '%03o' $((97+k))))
+    if [ "$letter1$letter2" != "oo" ]; then
+      echo -n "$letter1$letter2 "
+    fi
+    k=$((k+1))
+  done
+  echo
+  i=$((i+1))
+done

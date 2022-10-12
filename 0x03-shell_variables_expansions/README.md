@@ -21,5 +21,10 @@ Shell, init files, Variables and Expansions
 11 – A script that converts a number from base 2 to base 10.
 		The number in base 2 is stored in the environment variable BINARY
 		The script displays the number in base 10, followed by a new line
-12 – 
+12 – Create a script that prints all possible combinations of two letters, except oo.
+	Letters are lower cases, from a to z
+	One combination per line
+	The output is alpha ordered, starting with aa
+	Does not print oo
+t	the script file contains maximum 64 characters
 13 – 
