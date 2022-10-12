@@ -27,4 +27,5 @@ Shell, init files, Variables and Expansions
 	The output is alpha ordered, starting with aa
 	Does not print oo
 t	the script file contains maximum 64 characters
-13 – 
+13 – Write a shell script that prints a number with two decimal places, followed by a new line.
+The number will be stored in the environment variable NUM.
