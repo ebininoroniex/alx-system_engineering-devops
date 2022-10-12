@@ -9,7 +9,9 @@ Shell, init files, Variables and Expansions
 6 – A script that creates a new local variable.
 		Name: BEST
 		Value: School
-7 –
+7 – Create a script that creates a new global variable.
+		Name: BEST
+		Value: School
 8 – 
 9 – 
 10 – 
