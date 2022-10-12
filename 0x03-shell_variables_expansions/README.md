@@ -9,10 +9,10 @@ Shell, init files, Variables and Expansions
 6 – A script that creates a new local variable.
 		Name: BEST
 		Value: School
-7 – Create a script that creates a new global variable.
+7 – A cript that creates a new global variable.
 		Name: BEST
 		Value: School
-8 – 
+8 – A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line. 
 9 – 
 10 – 
 11 – 
